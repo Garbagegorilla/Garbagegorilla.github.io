@@ -35,11 +35,11 @@ Heal player a slightly less small amount
 ### Big Potions
 Heal player a good amount
 ### Rat Tails
-Ho function
+No current function
 ### Bat Wings
-No function
+No current function
 ### Spider Eggs
-No function
+No current function
 ## Equipment 
 ### Swords (Wooden and Stone) 
 Increase player damage
